@@ -1,4 +1,4 @@
-# SỬ DỤNG DJANGO ĐỂ TẠO WEB QUẢN LÝ TIỆM CẦM ĐỒ
+# SỬ DỤNG DJANGO ĐỂ TẠO WEB QUẢN LÝ TIỆM CẦM ĐỒ 
 ## DJANGO_WEB_CAM_DO
 #### Họ tên : Nguyễn Thế Dương
 #### MSSV : K225480106007
